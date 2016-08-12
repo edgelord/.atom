@@ -1,0 +1,44 @@
+"*":
+  Hydrogen:
+    startupCode: "{\"Python 2\": \"%matplotlib inline\"}"
+  "advanced-open-file":
+    createDirectories: true
+    fuzzyMatch: true
+    helmDirSwitch: true
+  "atom-material-ui":
+    colors:
+      abaseColor:
+        alpha: 1
+        blue: 117
+        green: 216
+        red: 170
+      accentColor:
+        alpha: 1
+        blue: 83
+        green: 136
+        red: 111
+      predefinedColor: "Green"
+    tabs: {}
+    treeView:
+      compactList: true
+    ui: {}
+  "autocomplete-python":
+    pythonPaths: "/usr/local/bin/python3;usr/local/bin/python2"
+  core:
+    disabledPackages: [
+      "language-python"
+    ]
+    openEmptyEditorOnStart: false
+    packagesWithKeymapsDisabled: [
+      "emacs-plus"
+      "emmet"
+    ]
+    projectHome: "/Users/akshay/Development"
+    useCustomTitleBar: true
+  "exception-reporting":
+    userId: "6ad22c88-fc4b-f557-ef63-a04b77e536e8"
+  "one-dark-ui":
+    layoutMode: "Compact"
+    tabSizing: "Minimum"
+  welcome:
+    showOnStartup: false
